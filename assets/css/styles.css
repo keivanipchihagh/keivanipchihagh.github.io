@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    box-sizing: border-box;
+    color: #3f345f;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    text-align: center;
+    font-family: spectral;
+    background-image: url('../../assets/img/bg.jpg');
+}
+
+.content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+a {
+    text-decoration: none !important;
+    color: #000;
+    transition: all 0.3s ease 0s;
+}
+
+.social-icons a {
+    display: inline-block;
+    line-height: 52px;
+    height: 50px;
+    width: 50px;
+    box-shadow: 0 5px 25px #5d46e826;
+    margin: 15px 10px;
+    font-size: 22px;
+    border: 1px solid #5d46e826;
+    background-color: #fff;
+}
+
+.social-icon {
+    position: relative;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all .4s ease;
+}
+
+@keyframes slide {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 40px 0;
+    }
+}
+
+.social-icon:after {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    height: 2px;
+    content: '';
+    width: 70%;
+    background: url(http://demo.themenio.com/ico/assets/images/line.png) repeat 0 0;
+    z-index: 0;
+    animation: slide 1s linear infinite;
+}
+
+.social-icon:last-child:after {
+    display: none;
+}
+
+.social-icon .ikon {
+    font-size: 50px;
+    line-height: 80px;
+}
+
+.fa-twitter {
+    color: #40beff;
+}
+
+.fa-github {
+    color: #000;
+}
+
+.fa-instagram {
+    color: #ff9259;
+}
+
+.fa-linkedin {
+    color: #0A66C2
+}
+
+.fa-facebook {
+    color: #0866FF;
+}
+
+.fa-discord {
+    color: #5865F2;
+}
+
+.fa-gitlab {
+    color: #E24329;
+}
+
+.fa-kaggle {
+    color: #20BEFF;
+}
+
+.fa-skype {
+    color: #00ADEC;
+}
+
+.badge {
+    background-color: #17a0b882;
+    padding: 5px 10px;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
