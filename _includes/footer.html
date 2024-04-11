@@ -1,7 +1,8 @@
 <footer class="footer">
+  Keivan Ipchi Hagh <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span> | 
   <a class="footer_item" href="https://docs.google.com/document/d/1RHJ3HHgwJoMT71_qpr6nIvwe-GxNzTJjN2guZZNrgUQ/export?format=pdf" download>resume</a>
   <a class="footer_item" href="{{ 'feed.xml' | relative_url }}">rss</a>
-  <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
+  {% include social-media.html %}
   <small class="footer_copyright">
     <!-- Klisé Theme: https://github.com/piharpi/jekyll-klise -->
     <a

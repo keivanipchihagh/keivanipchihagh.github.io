@@ -95,11 +95,6 @@ layout: compress
       <div class="share-posts">
         <h1>{% include share-post.html %}</h1>
       </div>
-
-      {% if page.comments %}
-        {% include comments.html %}
-      {% endif %}
-
     </main>
 
     {% if page.modified %}
@@ -108,6 +103,10 @@ layout: compress
     {% if page.next or page.previous %}
       {% include navigation.html %}
     {% endif %}
+
+    {% if page.comments %}
+        {% include comments.html %}
+      {% endif %}
 
     {% include footer.html %}
   </div>
