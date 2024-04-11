@@ -9,6 +9,7 @@ tag:
   - git
   - software
 image: /cara-memperbarui-fork-repository/repo.png
+reading_time: 5
 ---
 
 Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatnya pengen rumat ulang nih, ternyata dari orginal reponya ada update, sekalian buat artikel deh, lebih kurang gambaranya seperti ini.
