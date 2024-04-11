@@ -49,7 +49,14 @@ layout: compress
           {% if page.date %}
           <div class="post-meta">
             <i class="fa-regular fa-clock"></i>
-            <span>{{ page.reading_time }} minutes read</span>
+            <span itemprop="readingTime" itemscope itemtype="https://schema.org/Duration">
+              {% assign words = content | number_of_words %}
+              {% if words < 360 %}
+                1
+              {% else %}
+                {{ words | divided_by: 180 }}
+              {% endif %} min read
+            </span>
             &nbsp;&nbsp;
             <i class="fa-regular fa-calendar"></i>
             <span datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
