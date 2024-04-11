@@ -77,7 +77,11 @@ layout: compress
           {% endif %}
         </div>
       </article>
-    
+
+      <div class="share-posts">
+        <h1>{% include share-post.html %}</h1>
+      </div>
+
       {% if page.comments %}
         {% include comments.html %}
       {% endif %}
