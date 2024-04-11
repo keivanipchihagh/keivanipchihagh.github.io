@@ -189,6 +189,28 @@
   h6 {
     @include relative-font-size(0.875);
   }
+
+  details.table-of-contents {
+    margin: 1.5em -27px 0px;
+    @include media-query($on-mobile) {
+      margin: 1.5em calc(51% - 51vw) 0px;
+      padding-left: 20px;
+    }
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 0.5em 1em;
+    
+    summary {
+      font-weight: $bold-weight;
+    }
+
+    .section-nav{
+      margin-top: 0.5em;
+      margin-bottom: 0px;
+    }
+
+    font-size: small;
+  }
 }
 
 .post-nav {

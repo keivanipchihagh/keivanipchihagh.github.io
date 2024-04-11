@@ -26,6 +26,12 @@ body[data-theme="dark"] {
     }
   }
 
+  details.table-of-contents {
+    color: $dark-white;
+    background-color: #1a1b21;
+    border: 1px solid rgba(128,128,128,0.1);
+  }
+
   // Post
   .page-content {
     a {
