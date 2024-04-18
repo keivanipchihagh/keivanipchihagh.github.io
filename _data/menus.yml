@@ -2,10 +2,6 @@
   url: /
   external: false
 
-- title: blogs
-  url: /blogs/
-  external: false
-
 - title: archive
   url: /archive/
   external: false

@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Keivan Ipchi Hagh # author name
   bio: >- # tell to the world
-    If the rise of an all-powerful artificial intelligence is inevitable, well it stands to reason that when they take power, our digital overlords will punish those of us who did not help them get there. Ergo, I would like to be a helpful idiot.
+    Greetings! My name is Keivan Ipchi Hagh and I love to turn the once-thought-impossible into the everyday with data 🚀
   username: keivanipchihagh # general username
   github: keivanipchihagh # github username
   twitter: keivanipchihagh # twitter username
@@ -59,7 +59,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 7
+number_of_posts: 5
 
 # Build settings
 # theme: klise
