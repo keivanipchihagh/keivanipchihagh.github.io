@@ -23,7 +23,7 @@ In this article, I’ll show you how I deployed my resume written in [Google Doc
 First, ensure your resume in Google Docs is polished and ready for the spotlight. Then, share it with anyone with the link, but with viewer access only!
 
 <figure>
-<img src="/deploy-your-resume-into-production/docs.webp" alt="Google Docs general access">
+<img src="{{ '/deploy-your-resume-into-production/docs.webp' | relative_url }}" alt="Google Docs general access">
 <figcaption>Fig 1. Google Docs general access</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Log in to your domain registrar and navigate to the *DNS* settings. Create a new
 - TTL: `Auto`
 
 <figure>
-<img src="/deploy-your-resume-into-production/cloudflare.webp" alt="Cloudflare DNS settings snapshot">
+<img src="{{ '/deploy-your-resume-into-production/cloudflare.webp' | relative_url }}" alt="Cloudflare DNS settings snapshot">
 <figcaption>Fig 2. Cloudflare DNS settings snapshot</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Then…
 - Preserve query string: `Checked`
 
 <figure>
-<img src="/deploy-your-resume-into-production/Wrules.webp" alt="Cloudflare Redirect Rules">
+<img src="{{ '/deploy-your-resume-into-production/rules.webp' | relative_url }}" alt="Cloudflare Redirect Rules">
 <figcaption>Fig 3. Cloudflare Redirect Rules</figcaption>
 </figure>
 
