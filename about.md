@@ -8,7 +8,7 @@ comments: false
 
 👋 Hello There!
 
-My name is **Keivan Ipchi Hagh**. I'm a **Machine Learning Engineer** during the days 🌞, and a **Software Engineer** at nights 🌒.
+My name is **Keivan Ipchihagh**. I'm a **Machine Learning Engineer** during the days 🌞, and a **Software Engineer** at nights 🌒.
 
 🚀 I love to work on the industry's frontline, deploying machine learning solutions at scale and bringing data to everyday life. I and have developed various models and contributed to numerous data-driven projects.
 I have a knack for solving challenges using data. Whether it's optimizing algorithms for efficiency or fine-tuning models for accuracy, I thrive on the puzzle of problem-solving.
