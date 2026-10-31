@@ -13,7 +13,7 @@ My name is **Keivan Ipchihagh**. I'm an **AI/ML Engineer** and an M.Sc. Computer
 🚀 I love to work on the industry's frontline, deploying machine learning solutions at scale and bringing data to everyday life. I have developed various models and contributed to numerous data-driven projects.
 I have a knack for solving challenges using data. Whether it's optimizing algorithms for efficiency or fine-tuning models for accuracy, I thrive on the puzzle of problem-solving.
 
-🎓 I've completed my Bachelor's Degree in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/index.php?slc_lang=en) with a 3.5 GPA. My thesis project scoped in [Semantic Segmentation for Autonomous Driving (SSAD)](https://github.com/keivanipchihagh/SSAD).
+🎓 I've completed my Bachelor's Degree in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/index.php?slc_lang=en) with a GPA of 16.7/20 (approx. 1.9 on the German scale). My thesis project scoped in [Semantic Segmentation for Autonomous Driving (SSAD)](https://github.com/keivanipchihagh/SSAD).
 
 ## Certifications
 - 2023 🏆 English Language Proficiency (TOFEL) <small>- Overall 104</small>
