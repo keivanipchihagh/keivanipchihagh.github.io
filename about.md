@@ -8,9 +8,9 @@ comments: false
 
 👋 Hello There!
 
-My name is **Keivan Ipchi Hagh**. I'm a **Machine Learning Engineer** during the days 🌞, and a **Software Engineer** at nights 🌒.
+My name is **Keivan Ipchihagh**. I'm an **AI/ML Engineer** and an M.Sc. Computer Science student at the [University of Bonn](https://www.uni-bonn.de/).
 
-🚀 I love to work on the industry's frontline, deploying machine learning solutions at scale and bringing data to everyday life. I and have developed various models and contributed to numerous data-driven projects.
+🚀 I love to work on the industry's frontline, deploying machine learning solutions at scale and bringing data to everyday life. I have developed various models and contributed to numerous data-driven projects.
 I have a knack for solving challenges using data. Whether it's optimizing algorithms for efficiency or fine-tuning models for accuracy, I thrive on the puzzle of problem-solving.
 
 🎓 I've completed my Bachelor's Degree in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/index.php?slc_lang=en) with a 3.5 GPA. My thesis project scoped in [Semantic Segmentation for Autonomous Driving (SSAD)](https://github.com/keivanipchihagh/SSAD).

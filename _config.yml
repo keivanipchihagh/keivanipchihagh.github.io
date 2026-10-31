@@ -1,7 +1,7 @@
 # Site settings
-title: Keivan Ipchi Hagh # site title
+title: Keivan Ipchihagh # site title
 description: >- # site description
-  Keivan Ipchi Hagh's personal site.
+  Keivan Ipchihagh's personal site.
 lang: en-US # default lang
 timezone: Asia/Tehran # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -10,9 +10,9 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Keivan Ipchi Hagh # author name
+  name: Keivan Ipchihagh # author name
   bio: >- # tell to the world
-    Greetings! My name is Keivan Ipchi Hagh and I love to turn the once-thought-impossible into the everyday with data 🚀
+    Greetings! My name is Keivan Ipchihagh and I love to turn the once-thought-impossible into the everyday with data 🚀
   username: keivanipchihagh # general username
   github: keivanipchihagh # github username
   twitter: keivanipchihagh # twitter username

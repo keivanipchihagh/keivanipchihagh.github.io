@@ -1,5 +1,5 @@
 # Klisé
-Keivan Ipchi Hagh's personal site.
+Keivan Ipchihagh's personal site.
 
 ## Installation
 ```bash
